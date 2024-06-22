@@ -15,3 +15,5 @@ Working through the Expo tutorials to get a handle on the new changes.
 4. Install the dependencies: npx expo install react-dom react-native-web @expo/metro-runtime
 
 5. start the app: npx expo start and use the Expo Go app to scan hte QR code (or press w to see in web browser)
+
+6. install: npx expo install @expo/vector-icons
